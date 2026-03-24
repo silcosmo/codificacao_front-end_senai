@@ -1,0 +1,134 @@
+/*cabeçalho*/
+header img{
+    width: 120px;
+}
+
+.d-flex {
+    min-width: 320px;
+}
+
+/*Conteudo principal*/
+main{
+    min-height: 500px;
+}
+
+
+/*banner*/
+#section-banners img {
+    height: 500px;
+}
+
+/*Produtos vendidos*/
+#section-vendidos{
+    text-align: center;
+}
+
+.zen-dots-regular {
+  font-family: "Zen Dots", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+#section-vendidos h2 {
+    font-weight: bold;
+    font-family: "Zen Dots", sans-serif;
+    font-weight: 400;
+    color: #3C0080;
+    padding: 30px;
+    background-color: #72ea24;
+}
+
+
+#section-vendidos img {
+    height: 300px;
+    border-radius: 10px;
+}
+
+#section-vendidos .card {
+    align-items: center;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+#section-vendidos .preço {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+/*Rodapé*/
+footer{
+    text-align: center;
+}
+footer p{
+    font-weight:bold;
+    color: #6c757d;;
+    padding: 10px;
+}
+
+/*Botão Voltar topo*/
+#voltar-topo{
+    position: fixed;
+    bottom: 5px;
+    right: 20px;
+}
+
+/* página de login  */
+
+.imagem-link img {
+    width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+    
+}
+
+#section-login{
+    margin-top: 100px;
+    text-align: center;
+}
+#section-login h1{
+    text-align: center;
+    color: #3C0080;
+    font-family: "Zen Dots", sans-serif;
+    font-weight: 400;
+}
+
+
+#sectio-login input{
+    width: 100%;
+}
+
+/* Formulário de cadastro*/
+#section-cadastro{
+    padding: 5px;
+    text-align: center;
+    color: #3C0080;
+    
+}
+
+#section-cadastro h1{
+    padding: 5px;
+    text-align: center;
+    color: #3C0080;
+    font-family: "Zen Dots", sans-serif;
+    font-weight: 400;
+    
+}
+
+#form-cadastrar {
+    padding: 50px;
+    display: none;
+}
+
+/* Botão cadastre-se*/
+
+
+
+
+
+
