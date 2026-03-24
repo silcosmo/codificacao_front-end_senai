@@ -83,8 +83,7 @@ footer p{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 50px;
-    
+  padding-top: 50px;    
 }
 
 #section-login{
@@ -107,8 +106,7 @@ footer p{
 #section-cadastro{
     padding: 5px;
     text-align: center;
-    color: #3C0080;
-    
+    color: #3C0080;    
 }
 
 #section-cadastro h1{
@@ -116,8 +114,7 @@ footer p{
     text-align: center;
     color: #3C0080;
     font-family: "Zen Dots", sans-serif;
-    font-weight: 400;
-    
+    font-weight: 400;    
 }
 
 #form-cadastrar {
